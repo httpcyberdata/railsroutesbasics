@@ -1,24 +1,21 @@
-# README
+\# Rails routes basics. Tutorial by Kyle Geske's YouTube Channel
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+![Rails route app](images/appscreen.png)
 
-* System dependencies
+The basics of collection and member routing with one model and one controller. Covers routes.rb file, resources based routes, the link_to view helper, and more. 
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+* Ruby version: 3.0.0
 
-* How to run the test suite
+* Rails version  7.0.4
 
-* Services (job queues, cache servers, search engines, etc.)
+1. Clone repository 
+2. Navigate to the simple_store directory
+3. Run "bundle install"
+4. Run "rails s" 
+5. Open your browser & enter "localhost:3000" in the address bar.
+6. Happy coding!
 
-* Deployment instructions
-
-* ...
