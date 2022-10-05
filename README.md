@@ -19,3 +19,7 @@ The basics of collection and member routing with one model and one controller. C
 5. Open your browser & enter "localhost:3000" in the address bar.
 6. Happy coding!
 
+URLs
+/products - view the list of products
+/product:id - view a single product by numeric value
+
